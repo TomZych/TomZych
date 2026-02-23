@@ -13,5 +13,6 @@ I'm a Computer Science student at the University of Illinois Chicago (Class of 2
 
 ## Featured Projects
 
-| [Crypto Blockchain Simulation](https://github.com/TomZych/Simple-Blockchain-Simulation) | A C++ simulation of a cryptocurrency blockchain featuring proof-of-work mining, transaction validation, and UTXO management | C++ |
-| [Wildfire Tracker](https://github.com/TomZych/wildfire-tracker) | An interactive web app that visualizes real-time wildfire data from NASA's EONET API on a world map | React.js, Node.js, Leaflet |
+[Crypto Blockchain Simulation](https://github.com/TomZych/Simple-Blockchain-Simulation) | A C++ simulation of a cryptocurrency blockchain featuring proof-of-work mining, transaction validation, and UTXO management | C++ |
+
+[Wildfire Tracker](https://github.com/TomZych/wildfire-tracker) | An interactive web app that visualizes real-time wildfire data from NASA's EONET API on a world map | React.js, Node.js, Leaflet |
